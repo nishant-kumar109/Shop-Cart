@@ -33,5 +33,13 @@
     "pdfkit": "^0.8.3",
     "pug": "^2.0.3",
     "sequelize": "^5.0.0-beta.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant-kumar109/Shop-Cart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishant-kumar109/Shop-Cart/issues"
+  },
+  "homepage": "https://github.com/nishant-kumar109/Shop-Cart#readme"
 }
